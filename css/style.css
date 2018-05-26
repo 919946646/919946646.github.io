@@ -2050,13 +2050,13 @@ width: 99%;
 }
 .screenshots-top{
     text-align: center;
-    padding-bottom: 125px;
+    padding-bottom: 25px;
     max-width: 600px;
     margin: 0 auto;
 }
 .screenshots-top h2{
     padding-bottom: 27px;
-    color: #2f4cf4;
+    color: #000;
     text-transform: uppercase;
 }
 .screenshots-top p{
