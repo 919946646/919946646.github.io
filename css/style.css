@@ -91,6 +91,7 @@ p {
     background: #ffffff;
     padding: 20px 0px;
     box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.16);
+  /* border-bottom: rgb(159, 92, 185) solid 1px;*/
 }
 
 .header_box {
@@ -107,7 +108,20 @@ p {
     display: none;
 }
 	
-
+.join-us {
+    text-align: center;
+    width: 100%;
+    margin-bottom: 70px;
+}
+.join-us a {
+    border-radius: 20px;
+    color: #fff;
+    background: #9b59b6;
+    padding: 10px 40px;
+}
+.join-us a:hover{
+    background-color:#888;
+}
 /* Nav Styles
 ---------------------------------*/
 .navbar-inverse {
